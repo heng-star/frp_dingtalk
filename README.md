@@ -1,19 +1,18 @@
 # frp_dingtalk
 
 #### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
 
-#### 软件架构
-软件架构说明
+frp_dingtalk是基于钉钉开放平台推出的内网穿透工具。专为没有云服务器资源的个人开发者提供服务器映射，快速开发调试的一个小工具
 
+
+#### 插件说明
+  钉钉开发平台源项目地址github.com/open-dingtalk/。鉴于国内不友好访问GitHub，故个人将相关软件搬过来。该工具仅供个人学习，严谨将该插件用于非法目的或商业目的，若强行测试开发，出现问题事故，本人和钉钉均无相应责任。
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  若能访问GitHub或者正常使用git工具，请直接去钉钉官网developers.dingtalk.com。
+2.  这里针对windows个人开发提供指导，若非此类用户，请直接参考项目的readme.md。
+3.  gitee用户可直接使用克隆。也可以直接下载压缩包。解压后放到相关位置即可。
 
 #### 使用说明
 
@@ -29,11 +28,6 @@ Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN�
 4.  新建 Pull Request
 
 
-#### 特技
+#### 权利声明
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1.  该工具由钉钉开发官网提供，版权归属钉钉开放平台。
