@@ -12,20 +12,27 @@ frp_dingtalk是基于钉钉开放平台推出的内网穿透工具。专为没�
 
 1.  若能访问GitHub或者正常使用git工具，请直接去钉钉官网developers.dingtalk.com。
 2.  这里针对windows个人开发提供指导，若非此类用户，请直接参考项目的readme.md。
-3.  gitee用户可直接使用克隆。也可以直接下载压缩包。解压后放到相关位置即可。
+3.  gitee用户可直接使用克隆。window用户也可以直接下载Windows_64压缩包。解压后放到相关位置即可。
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  配置你的前缀域名，如果在命令行里使用，则
+```
+cd windows_64
+ding -config=ding.cfg -subdomain=abcde 8080
+```
+把abcde改成您想要设置的域名，建议复杂的，以免与他人冲突。端口默认8080，也可以自己修改。
+
+2.  若不想使用命令行，修改cmd文件也行，把里面的abcde改成自己的前缀符号，设置端口，保存。
+3.  单机nwstart.cmd启动就可以啦。
+4.  若想关闭映射，直接ctrl+c 或者关闭cmd窗口就可以啦。
+5.  自己部署项目，测试访问即可。
+6.  -config=ding.cfg一般不需要修改。
 
 #### 参与贡献
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+1.  heng-star
+2.  特别感谢钉钉
 
 
 #### 权利声明
