@@ -1,4 +1,4 @@
 
-ding -config=ding.cfg -subdomain=heng 8080
+ding -config=ding.cfg -subdomain=abcde 8080
 
-#解释：heng为前缀域名，8080为端口，其他不用动
+#解释：abcde为前缀域名，8080为端口，其他不用动,  域名示例：abcde.vaiwan.com
