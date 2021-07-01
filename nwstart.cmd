@@ -1,1 +1,1 @@
-ding -config=ding.cfg -subdomain=heng 8080
+ding -config=ding.cfg -subdomain=abcde 8080
