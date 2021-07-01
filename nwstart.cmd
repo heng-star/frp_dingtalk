@@ -1,0 +1,1 @@
+ding -config=ding.cfg -subdomain=heng 8080

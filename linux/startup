@@ -1,0 +1,7 @@
+#!/bin/sh
+#域名
+DOMAIN=
+#端口号
+PORT=
+cd $(dirname $0)
+./ding -config=./ding.cfg -subdomain=$DOMAIN $PORT
