@@ -24,7 +24,7 @@ ding -config=ding.cfg -subdomain=abcde 8080
 把abcde改成您想要设置的域名，建议复杂的，以免与他人冲突。端口默认8080，也可以自己修改。
 
 2.  若不想使用命令行，修改cmd文件也行，把里面的abcde改成自己的前缀符号，设置端口，保存。
-3.  单机nwstart.cmd启动就可以啦。
+3.  单击nwstart.cmd启动就可以啦。nwstart.cmd需要放在windows_64文件夹里。
 4.  若想关闭映射，直接ctrl+c 或者关闭cmd窗口就可以啦。
 5.  自己部署项目，测试访问即可。
 6.  -config=ding.cfg一般不需要修改。
